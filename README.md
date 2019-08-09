@@ -1,2 +1,4 @@
-# AppMarvelHeroesList
-Technical job challenge
+# App
+  Marvel Heroes List
+# Descition 
+  Technical job challenge

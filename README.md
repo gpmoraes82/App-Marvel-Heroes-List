@@ -1,4 +1,2 @@
-# App
-  Marvel Heroes List
-# Descition 
+# App Marvel Heroes List
   Technical job challenge
